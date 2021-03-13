@@ -8,9 +8,11 @@ Download the following:
 - [NodeJS](https://nodejs.org/en/download/) 
 
 Run the following commands:
-- npm install --global expo-cli
+- npm install -g expo-cli
 - npm install -g react-native-cli
-
+- expo init HackMercedDemo
+- cd HackMercedDemo
+- npm start
 
 
 
@@ -22,3 +24,4 @@ Run the following commands:
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Figma](https://www.figma.com/)
+- [React Networking](https://reactnative.dev/docs/network)
